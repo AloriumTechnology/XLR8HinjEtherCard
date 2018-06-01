@@ -1,0 +1,89 @@
+#######################################
+# Syntax Coloring Map For XLR8SPI
+####################################### 
+# Class
+#######################################
+
+Stash	KEYWORD1
+BufferFiller	KEYWORD1
+XLR8HinjEtherCard	KEYWORD1
+
+#######################################
+# Methods and Functions 
+#######################################	
+
+create	KEYWORD2
+open	KEYWORD2
+save	KEYWORD2
+release	KEYWORD2
+put	KEYWORD2
+get	KEYWORD2
+size	KEYWORD2
+write	KEYWORD2
+prepare	KEYWORD2
+length	KEYWORD2
+extract	KEYWORD2
+cleanup	KEYWORD2
+dumpBlock	KEYWORD2
+dumpStash	KEYWORD2
+
+emit_p	KEYWORD2
+emit_raw	KEYWORD2
+emit_raw_p	KEYWORD2
+buffer	KEYWORD2
+position	KEYWORD2
+
+begin	KEYWORD2
+staticSetup	KEYWORD2
+makeUdpReply	KEYWORD2
+packetLoop	KEYWORD2
+accept	KEYWORD2
+httpServerReply	KEYWORD2
+httpServerReply_with_flags	KEYWORD2
+httpServerReplyAck	KEYWORD2
+setGwIp	KEYWORD2
+updateBroadcastAddress	KEYWORD2
+clientWaitingGw	KEYWORD2
+clientWaitingDns	KEYWORD2
+clientTcpReq	KEYWORD2
+browseUrl	KEYWORD2
+httpPost	KEYWORD2
+ntpRequest	KEYWORD2
+ntpProcessAnswer	KEYWORD2
+udpPrepare	KEYWORD2
+udpTransmit	KEYWORD2
+sendUdp	KEYWORD2
+registerPingCallback	KEYWORD2
+clientIcmpRequest	KEYWORD2
+packetLoopIcmpCheckReply	KEYWORD2
+sendWol	KEYWORD2
+tcpSend	KEYWORD2
+tcpReply	KEYWORD2
+persistTcpConnection	KEYWORD2
+udpServerListenOnPort	KEYWORD2
+udpServerPauseListenOnPort	KEYWORD2
+udpServerResumeListenOnPort	KEYWORD2
+udpServerListening	KEYWORD2
+udpServerHasProcessedPacket	KEYWORD2
+DhcpStateMachine	KEYWORD2
+dhcpStartTime	KEYWORD2
+dhcpLeaseTime	KEYWORD2
+dhcpLease	KEYWORD2
+dhcpSetup	KEYWORD2
+dhcpAddOptionCallback	KEYWORD2
+dnsLookup	KEYWORD2
+copyIp	KEYWORD2
+copyMac	KEYWORD2
+printIp	KEYWORD2
+findKeyVal	KEYWORD2
+urlDecode	KEYWORD2
+urlEncode	KEYWORD2
+parseIp	KEYWORD2
+makeNetStr	KEYWORD2
+getSequenceNumber	KEYWORD2
+getTcpPayloadLength	KEYWORD2
+
+#######################################
+# Constants
+#######################################
+
